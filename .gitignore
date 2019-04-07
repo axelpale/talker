@@ -1,6 +1,6 @@
 # Bundle builds
-/dist/*
-!/dist/.gitkeep
+# /dist/*
+# !/dist/.gitkeep
 /test/dist/*
 !/test/dist/.gitkeep
 
